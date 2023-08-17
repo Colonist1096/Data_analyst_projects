@@ -282,6 +282,3 @@ SELECT DISTINCT week_number::numeric,
        MAX(creation_date) OVER (PARTITION BY week_number) AS post_dt
 FROM dt
 ORDER BY week_number;
-
-
-
