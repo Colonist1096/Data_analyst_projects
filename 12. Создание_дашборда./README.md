@@ -9,4 +9,4 @@
 2. Как много карточек генерируют источники с разными темами?
 3. Как соотносятся темы карточек и темы источников?
 
-[Ссылка на дашборд] (https://public.tableau.com/app/profile/ingvar.i/viz/___16848279780300/Dashboard1)
+[Ссылка на дашборд](https://public.tableau.com/app/profile/ingvar.i/viz/___16848279780300/Dashboard1)
